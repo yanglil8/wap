@@ -1,0 +1,22 @@
+{
+	"theme": "#409eff",
+	"verifyCode": true,
+	"waploginBgc":"/static/img/login_bgc.png",
+	"loginLogo":"/static/img/login_logo_maxwal.png",
+	"siteTitle":"烟邮协作平台",
+	"waploginBtnColor":"#409eff",
+    "defaultUser": "",
+    "defaultPassword": "",
+	"basicUrl": "/",
+	"Vconsole": false,
+    "localUrl": "http://192.168.1.99",
+	"modulars": [
+        "oa"
+    ],
+	"swipeList":[
+		"http://img.daimg.com/uploads/allimg/201015/1-201015233T1.jpg",
+		"http://img.daimg.com/uploads/allimg/220423/1-220423163G1.jpg"
+	],
+	"customHome":"/Home",
+	"tcode":"5653C942AA236456EEE3386EC7C9175B"
+}
